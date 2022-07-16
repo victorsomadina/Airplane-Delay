@@ -1,5 +1,4 @@
 # Airplane-Delay
-(C:\Users\Somadina\Downloads\Airlines.csv\AIRLINE.pbix)
 # Data Source
 https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
 # Problem Statement
